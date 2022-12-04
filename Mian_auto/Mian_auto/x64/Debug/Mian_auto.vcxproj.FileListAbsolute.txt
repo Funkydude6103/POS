@@ -1,0 +1,16 @@
+C:\Users\Tayyab Anees\OneDrive\Desktop\A2\Mian_auto\Mian_auto\x64\Debug\Mian_auto.vcxproj.AssemblyReference.cache
+C:\Users\Tayyab Anees\OneDrive\Desktop\A2\Mian_auto\Mian_auto\x64\Debug\Mian_auto.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Tayyab Anees\OneDrive\Desktop\A2\Mian_auto\Mian_auto\x64\Debug\Mianauto.Login.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\A2\Mian_auto\Mian_auto\x64\Debug\Mian_auto.vcxproj.GenerateResource.cache
+C:\Users\Tayyab Anees\OneDrive\Desktop\A2\Mian_auto\Mian_auto\x64\Debug\Mianauto.Main.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\A2\Mian_auto\Mian_auto\x64\Debug\Mianauto.Manual_Product.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mian_auto.vcxproj.AssemblyReference.cache
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mian_auto.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.Login.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.Main.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mian_auto.vcxproj.GenerateResource.cache
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.profits.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.Inventory_Management.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.Add_new_product.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.edit_existing_producr.resources
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\x64\Debug\Mianauto.Remove_a_product.resources

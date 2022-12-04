@@ -1,0 +1,14 @@
+﻿  Login.cpp
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Main.h(632,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Main.h(717,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Main.h(719,20): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Login.h(241,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Login.cpp(12,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Main.cpp
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Main.h(632,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Main.h(717,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\Mian_auto\Main.h(719,20): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  profits.cpp
+  Generating Code...
+  Add_new_product.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Mian_auto.vcxproj -> C:\Users\Tayyab Anees\OneDrive\Desktop\Mian_auto\x64\Debug\Mian_auto.exe
